@@ -4,7 +4,7 @@ ticket = ""
 if age >= 18:
     while ticket != "да" and ticket != "нет":
         ticket = input("Есть билет? (да/нет):")
-    if ticket == "да":
-        print ("Вход разрешён")
+if age >= 18 and ticket == "да":
+    print ("Вход разрешён")
 else:
     print("Вход запрещён")
