@@ -20,3 +20,5 @@ dignissimos itaque aut suscipit placeat perferendis quisquam laudantium aperiam 
  a veniam cupiditate reiciendis.Привет! Я изучаю Python.
 Привет! Я изучаю Python.
 Привет! Я изучаю Python.
+
+Привет! Я изучаю Python.
