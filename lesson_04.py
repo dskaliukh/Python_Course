@@ -19,8 +19,7 @@ f_name = "hello"
 with (open(f_name + ".txt", "r") as source,
       open(f_name + ".tmp", "w") as target):
     for line in source:
-        new_line = ""
-        if line.find(s_in) != -1:
+        if s_in in line:
             new_line = line.replace(s_in, s_out)
             target.write(new_line)
             print (f"{n:03d}: \"{line.rstrip('\n')}\" -> \"{new_line.rstrip('\n')}\"")
