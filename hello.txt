@@ -1,25 +1,8 @@
-пїЅпїЅпїЅпїЅпїЅпїЅ! пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ Python.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Expedita nam, sit dolorum soluta accusamus eos modi magnam eum! 
-Aliquam blanditiis corrupti error dolore cumque ipsa officia rem, voluptas quos sint!
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Quas expedita doloremque molestiae dolor ipsam porro minus praesentium, 
-iste repellat eum, aut, recusandae officia ratione ab vero quisquam incidunt maxime sequi!
-Lorem ipsum dolor sit, amet consectetur adipisicing.
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-Maxime, quae! Quas atque est consequatur ex molestiae, 
-odit quisquam ea praesentium maiores error voluptatibus suscipit. 
-Sequi, quasi a sunt consequuntur voluptatem consectetur laborum facilis magni 
-vero esse eligendi sint ea reiciendis neque minus reprehenderit commodi, 
-itaque optio nesciunt illum. Doloremque debitis, 
-numquam ullam esse quae tempore impedit error ex in mollitia recusandae 
-laudantium iste maiores? Quia magnam corrupti vitae doloribus libero, 
-dignissimos itaque aut suscipit placeat perferendis quisquam laudantium aperiam quas,
- dolores quaerat praesentium pariatur, dolorem ratione et quos? 
- Reprehenderit sed quibusdam at autem architecto iusto earum, 
- a veniam cupiditate reiciendis.Привет! Я изучаю Python.
-Привет! Я изучаю Python.
-Привет! Я изучаю Python.
 
 Привет! Я изучаю Python.
-Привет! Я изучаю Python.
+Это адресная книга:
+Сурик Петрович
+Пётр Иванович
+Анна Васильевна
+Сурик Семёнович
+Сергей Славович
