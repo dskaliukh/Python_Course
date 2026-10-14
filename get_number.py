@@ -24,6 +24,15 @@ def save_order(total):
 	# Путь к каталогу для заказов
 	orders_dir = base_dir / "orders"
 
+	# Создаём ошибочный путь для проверки конструкции except 
+	"""
+		Здесь:
+		Path() создаёт объект пути.
+		r"..." позволяет записать путь с обратными слешами 
+		без обработки специальных последовательностей.
+	""" 
+	# orders_dir = Path(r"Z:\orders")
+
 	# Путь к файлу для заказов
 	file_path = orders_dir / "order.txt"
 
@@ -60,8 +69,8 @@ def get_price(numero = 0):
 	while True:
 		try:
 			price = float(input(prompt))
-			if price <= 0:
-				print("Цена должна быть больше нуля! Повторите ввод.")
+			if  (not isfinite(price) or price <= 0):
+				print("Цена должна быть конечным числом больше нуля! \nПовторите ввод.")
 			else:
 				return price
 		except ValueError:
